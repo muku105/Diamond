@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Diamond/static/css/main.9cb7495d.chunk.css",
+    "main.js": "/Diamond/static/js/main.c7397d9b.chunk.js",
+    "main.js.map": "/Diamond/static/js/main.c7397d9b.chunk.js.map",
+    "runtime-main.js": "/Diamond/static/js/runtime-main.06b8f5e4.js",
+    "runtime-main.js.map": "/Diamond/static/js/runtime-main.06b8f5e4.js.map",
+    "static/js/2.e4516fde.chunk.js": "/Diamond/static/js/2.e4516fde.chunk.js",
+    "static/js/2.e4516fde.chunk.js.map": "/Diamond/static/js/2.e4516fde.chunk.js.map",
+    "index.html": "/Diamond/index.html",
+    "precache-manifest.ca3ce09ee6dd776623d650c5bd689035.js": "/Diamond/precache-manifest.ca3ce09ee6dd776623d650c5bd689035.js",
+    "service-worker.js": "/Diamond/service-worker.js",
+    "static/css/main.9cb7495d.chunk.css.map": "/Diamond/static/css/main.9cb7495d.chunk.css.map",
+    "static/js/2.e4516fde.chunk.js.LICENSE.txt": "/Diamond/static/js/2.e4516fde.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06b8f5e4.js",
+    "static/js/2.e4516fde.chunk.js",
+    "static/css/main.9cb7495d.chunk.css",
+    "static/js/main.c7397d9b.chunk.js"
+  ]
+}
